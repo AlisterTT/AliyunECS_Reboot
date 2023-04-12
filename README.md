@@ -42,3 +42,7 @@
 ## 2. Python脚本
 
 请参照此仓库中的`reboot_ecs.py`文件，该文件包含了用于重启阿里云ECS实例的Python脚本。
+
+
+
+**本文档和脚本均由OpenAI ChatGPT生成。**
